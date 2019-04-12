@@ -16,19 +16,30 @@ A van for the 22nd Century.
 ## Aesthetic
  * Maniac
  * A-Team
- * Vaporwave
  * Blankets, obvs.
  * Body Options
-   * Magic Purple-blue paint.
+   * Grayish white paint (like Maniac walls)
    * Millenium Falcon
-   * Maniac walls.
    * Black (A-Team)
+   * purply-blue, maybe magic.
  * Accents
    * Rainbow stripes like Maniac building
+     * Split to guide to different parts of van.
    * A-Team Wing
    * Hockey stick curve
    * Neon
    * Inside trippy lights from Instagram Ad.
+
+
+## Indoor
+  * Eye hooks for hammocks
+  * Whatever those metal beaks are for mounting chairs.
+    * Chairs become outside chairs
+    * Floor Chairs.
+    * Mountable footrest
+      * Can become pillow?
+    * Can be arranged in "living room" style e.g. VW bus.
+  * 6" puzzle piece foam floor. Mostly 1 color. Different colors represent what's underneath it. AC, chair mount beaks, etc.
 
 
 ## Utility.
