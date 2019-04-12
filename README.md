@@ -2,10 +2,6 @@
 
 A van for the 22nd Century.
 
-## VR stuff
-* Stand on a building
-* Scary with little girl creepy house
-
 ## Van Models
  * Chevy G(10/15/20)
  * Ford Econoline
@@ -38,6 +34,7 @@ A van for the 22nd Century.
   * Different colors represent what's underneath it. AC, chair mount beaks, etc.
     * Colors like rainbow guides.
   * Chairs can be arranged in "living room" style e.g. VW bus.
+  * Utilitarian legend on wall?  
 
 ## Indoor
 * Eye hooks for hammocks  
@@ -50,11 +47,10 @@ A van for the 22nd Century.
   * Mountable footrest
     * Can become pillow?  
   * Gull wing side door can become roof of patio.
-
-
+  * Magnetable wall
 
 ## Utility.
-  * Loft bed
+  * External loft bed
     * Maybe External w/ladder
   * Seats -> Beds, somehow.
     * Bed supports that "slot in"
