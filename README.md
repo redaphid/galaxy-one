@@ -21,6 +21,10 @@ A van for the 22nd Century.
    * Millenium Falcon
    * Black (A-Team)
    * purply-blue, maybe magic.
+   * Off-white like the robot in Maniac
+   * Black words, again like above robot.
+   * Maybe even white/red vertical stripes at bottom. Same robot.
+   * Even matte black "slats" on hood or rear windows. Guess what robot that's from? Also IROC-Zs
  * Accents
    * Rainbow stripes like Maniac building
      * Split to guide to different parts of van.
