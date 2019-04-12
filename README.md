@@ -14,6 +14,7 @@ A van for the 22nd Century.
  * Maniac
  * A-Team
  * Blankets, obvs.
+ * Maybe cushions, though Spirithoods blankes will probably suffice.
  * Body Options
    * Grayish white paint (like Maniac walls)
    * Millenium Falcon
