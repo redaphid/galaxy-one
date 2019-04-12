@@ -73,3 +73,4 @@ A van for the 22nd Century.
   * Solar panel roof.
   * Nylon netting in ceiling for storage
   * Saddlebags for storage?
+  * DC powered cooler (smaller & more portable than a fridge)
