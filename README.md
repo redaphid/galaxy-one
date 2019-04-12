@@ -25,6 +25,7 @@ A van for the 22nd Century.
    * Rainbow stripes like Maniac building
      * Split to guide to different parts of van.
      * Diffused leds behind the stripes?
+     * Fadecandy.
      * Maybe glow-in-the-dark paint/tape.
    * A-Team Wing
    * Hockey stick curve
@@ -65,3 +66,5 @@ A van for the 22nd Century.
   * Powah
   * Maybe wifi?
   * Solar panel roof.
+  * Nylon netting in ceiling for storage
+  * Saddlebags for storage?
