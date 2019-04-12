@@ -9,6 +9,7 @@ A van for the 22nd Century.
  * Chevy Custom Van
    * 70's are cool
  * Dodge Custom
+ * GMC Vandura
 
 ## Aesthetic
  * Maniac
@@ -23,10 +24,13 @@ A van for the 22nd Century.
  * Accents
    * Rainbow stripes like Maniac building
      * Split to guide to different parts of van.
+     * Diffused leds behind the stripes?
+     * Maybe glow-in-the-dark paint/tape.
    * A-Team Wing
    * Hockey stick curve
    * Neon
-   * Inside trippy lights from Instagram Ad.
+   * Off-white clothing style over-labelling.
+     * Also Maniac robots.
 
 ## Floor
   * Raised artificial floor for running cables, etc.
@@ -55,9 +59,9 @@ A van for the 22nd Century.
   * External loft bed
     * Maybe External w/ladder
   * Seats -> Beds, somehow.
-    * Bed supports that "slot in"
-      * Vertically in wall to store
-      * Horizontally in grooves in 2 walls for bed.
+  * Hammocks
+    * Eye rings screwed into walls   
   * AC
   * Powah
   * Maybe wifi?
+  * Solar panel roof.
