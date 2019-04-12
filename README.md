@@ -66,6 +66,7 @@ A van for the 22nd Century.
   * Seats -> Beds, somehow.
   * Hammocks
     * Eye rings screwed into walls   
+    * Swing out external arm to be the other end when no nearby trees.
   * AC
   * Powah
   * Maybe wifi?
