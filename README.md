@@ -4,6 +4,7 @@ A van for the 22nd Century.
 
 ## Van Models
  * Chevy G(10/15/20)
+   * G20s have an extended body version that might work.
  * Ford Econoline
  * Chevy Custom Van
    * 70's are cool
