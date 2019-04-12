@@ -10,6 +10,7 @@ A van for the 22nd Century.
    * 70's are cool
  * Dodge Custom
  * GMC Vandura
+ * Maybe something Diesel?
 
 ## Aesthetic
  * Maniac
